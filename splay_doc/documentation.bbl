@@ -1,0 +1,25 @@
+\begin{thebibliography}{Tar85b}
+
+\bibitem[AM76]{alm}
+Brian Allen and Ian Munro.
+\newblock Self-organizing binary search trees.
+\newblock {\em 17th Annual Symposium on Foundations of Computer Science}, pages
+  166--172, 1976.
+
+\bibitem[ST85]{splay}
+D.~D. Sleator and R.~E. Tarjan.
+\newblock Self-adjusting binary search trees.
+\newblock {\em Journal of the Association for Computing Machinery},
+  32:652--686, July 1985.
+
+\bibitem[Tar85a]{amort}
+R.~E. Tarjan.
+\newblock Amortized computational complexity.
+\newblock {\em S.I.A.M Journal of Applied Discrete Methods}, 6:545--568, 1985.
+
+\bibitem[Tar85b]{seq}
+R.~E. Tarjan.
+\newblock Splaying a search tree in preorder takes linear time.
+\newblock {\em Combinatorica}, 5:367--378, 1985.
+
+\end{thebibliography}
